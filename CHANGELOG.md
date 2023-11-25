@@ -6,8 +6,15 @@
 
 ## [Unreleased]
 
+### Documentation
+
+- Add LICENSE.md
+
 ### Setup
 
+- Add initial git ignore
+- Add initial git attributes
+- Add editorconfig
 - Initialize changelog automation for repo
 
 ***
